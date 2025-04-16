@@ -8,7 +8,7 @@ This, CLI app is used to convert currency. Inorder, to convert it sends a reques
 Compile the program first:
 `cargo build --release`
 
-Then go inside target/release/ folder
+Then go inside *target/release/* folder
 `cd target/release`
 
 Run as:
